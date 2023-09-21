@@ -1,8 +1,8 @@
 import 'package:flutter/material.dart';
 import 'package:weather3/hamepage.dart';
 
-class weatherapp extends StatelessWidget {
-  const weatherapp({super.key});
+class notesapp extends StatelessWidget {
+  const notesapp({super.key});
 
   @override
   Widget build(BuildContext context) {
@@ -15,5 +15,5 @@ class weatherapp extends StatelessWidget {
 }
 
 void main() {
-  runApp(weatherapp());
+  runApp(notesapp());
 }
